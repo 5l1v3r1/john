@@ -4,7 +4,7 @@ Binary ini sengaja saya recompile karena john the ripper bawaan dari backbox 5 s
 
 # Cara installasi
 1. ```sudo su```
-2. ```apt-get install openssl libgmp-dev libgomp1```
+2. ```apt-get install openssl libgmp-dev libgomp1 libcompress-raw-lzma-perl```
 3. ```cd /opt```
 4. ```git clone https://github.com/koboi137/john```
 5. ```cd john/```
