@@ -4,7 +4,7 @@ Binary ini sengaja saya recompile karena john the ripper bawaan dari backbox 6 s
 
 # Cara installasi
 1. ```sudo su```
-2. ```apt-get install libssl-dev ocl-icd-libopencl1 libgomp1```
+2. ```apt-get install libssl-dev ocl-icd-libopencl1 libgomp1 libcompress-raw-lzma-perl```
 3. ```cd /opt```
 4. ```git clone https://github.com/koboi137/john```
 
